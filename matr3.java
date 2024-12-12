@@ -6,6 +6,7 @@ public class matr3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         //variables
+        //EL ALBERT ES EL MEJOR PROFESOR DE ESTA HORA
         int N = 6;
         int cv1 = (int) (Math.random() * 5 + 1);
         int fv1 = (int) (Math.random() * 5 + 1);
